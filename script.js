@@ -7,20 +7,20 @@ document.addEventListener("DOMContentLoaded", function () {
             "time": "30 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.1
+            "rating": 4.2
         },
         {
             "name": "Chicken Grill",
             "imageSrc": "https://source.unsplash.com/random?chicken",
-            "time": "40 min",
+            "time": "45 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.6
+            "rating": 4.5
         },
         {
             "name": "Cheese Pizza",
             "imageSrc": "https://source.unsplash.com/random?pizza",
-            "time": "45 min",
+            "time": "40 min",
             "type": "veg",
             "isLiked": false,
             "rating": 4.1
@@ -28,10 +28,10 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "name": "Steak",
             "imageSrc": "https://source.unsplash.com/random?steak",
-            "time": "55 min",
+            "time": "60 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.4
+            "rating": 4.7
         },
         {
             "name": "Grilled Salmon",
@@ -39,15 +39,15 @@ document.addEventListener("DOMContentLoaded", function () {
             "time": "50 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.0
+            "rating": 4.6
         },
         {
             "name": "Tomato Pasta",
             "imageSrc": "https://source.unsplash.com/random?pasta",
-            "time": "45 min",
+            "time": "35 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.2
+            "rating": 4.0
         },
         {
             "name": "Vegan Salad",
@@ -55,12 +55,12 @@ document.addEventListener("DOMContentLoaded", function () {
             "time": "20 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 3.7
+            "rating": 3.9
         },
         {
             "name": "Fried Chicken",
             "imageSrc": "https://source.unsplash.com/random?friedChicken",
-            "time": "40 min",
+            "time": "55 min",
             "type": "non-veg",
             "isLiked": false,
             "rating": 4.3
@@ -68,42 +68,42 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "name": "Mushroom Risotto",
             "imageSrc": "https://source.unsplash.com/random?risotto",
-            "time": "50 min",
+            "time": "45 min",
             "type": "veg",
-            "isLiked": false,
-            "rating": 4.7
-        },
-        {
-            "name": "Burger",
-            "imageSrc": "https://source.unsplash.com/random?burger",
-            "time": "20 min",
-            "type": "non-veg",
             "isLiked": false,
             "rating": 4.5
         },
         {
+            "name": "Burger",
+            "imageSrc": "https://source.unsplash.com/random?burger",
+            "time": "30 min",
+            "type": "non-veg",
+            "isLiked": false,
+            "rating": 4.2
+        },
+        {
             "name": "Paneer Tikka",
             "imageSrc": "https://source.unsplash.com/random?paneerTikka",
-            "time": "35 min",
+            "time": "40 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.6
+            "rating": 4.4
         },
         {
             "name": "BBQ Ribs",
             "imageSrc": "https://source.unsplash.com/random?ribs",
-            "time": "50 min",
+            "time": "70 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.7
+            "rating": 4.6
         },
         {
             "name": "Caesar Salad",
             "imageSrc": "https://source.unsplash.com/random?caesarSalad",
-            "time": "55 min",
+            "time": "25 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 3.9
+            "rating": 3.8
         },
         {
             "name": "Fish Tacos",
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "time": "35 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.2
+            "rating": 4.3
         },
         {
             "name": "Chocolate Cake",
